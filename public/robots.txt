@@ -1,0 +1,3 @@
+User-Agent: *
+Desallow: /exemplo_de_desabilitar_alguma_coisa
+Allow: *
