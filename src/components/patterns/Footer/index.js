@@ -33,7 +33,7 @@ const Footer = () => {
                         color: theme.colors.neutral[400],
                     }}
                 >
-                    &copy; {new Date().getFullYear()} DevSoutinho. Todos os direitos reservados.
+                    &copy; {new Date().getFullYear()} HMW - Solution.
                 </Text>
             </Box>
         </Box>
